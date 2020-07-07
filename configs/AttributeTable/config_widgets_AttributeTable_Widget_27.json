@@ -1,0 +1,385 @@
+{
+  "layerInfos": [
+    {
+      "name": "Footprint Lengkap",
+      "id": "Footprint_Lengkap_2868",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Footprint_Lengkap/FeatureServer/0",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": false
+          },
+          {
+            "name": "Id",
+            "alias": "Id",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "SHAPE_Leng",
+            "alias": "SHAPE_Leng",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "SHAPE_Area",
+            "alias": "SHAPE_Area",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "kode_B",
+            "alias": "kode_B",
+            "show": false
+          },
+          {
+            "name": "kode_B_1",
+            "alias": "kode_B_1",
+            "show": true
+          },
+          {
+            "name": "D_NOP",
+            "alias": "D_NOP",
+            "show": true
+          },
+          {
+            "name": "PERSILPASI",
+            "alias": "PERSILPASI",
+            "show": false
+          },
+          {
+            "name": "PENGGUNAAN",
+            "alias": "PENGGUNAAN",
+            "show": true
+          },
+          {
+            "name": "NILAI",
+            "alias": "NILAI",
+            "show": true,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "TIPEHAK",
+            "alias": "TIPEHAK",
+            "show": true
+          },
+          {
+            "name": "NUMERIKID",
+            "alias": "NUMERIKID",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "VALIDATORG",
+            "alias": "VALIDATORG",
+            "show": false
+          },
+          {
+            "name": "SUMBERGEOM",
+            "alias": "SUMBERGEOM",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "WILAYAHID",
+            "alias": "WILAYAHID",
+            "show": false
+          },
+          {
+            "name": "KANTORID",
+            "alias": "KANTORID",
+            "show": false
+          },
+          {
+            "name": "KANTORINDU",
+            "alias": "KANTORINDU",
+            "show": false
+          },
+          {
+            "name": "TIPEPRODUK",
+            "alias": "TIPEPRODUK",
+            "show": false
+          },
+          {
+            "name": "TAHUN",
+            "alias": "TAHUN",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "LUAS",
+            "alias": "LUAS",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "NIB",
+            "alias": "NIB",
+            "show": true
+          },
+          {
+            "name": "LUASPETA",
+            "alias": "LUASPETA",
+            "show": true,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "MEAN_grid_",
+            "alias": "MEAN_grid_",
+            "show": true,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "SUM_grid_c",
+            "alias": "SUM_grid_c",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "volume",
+            "alias": "volume",
+            "show": true,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "tingkat",
+            "alias": "tingkat",
+            "show": true
+          },
+          {
+            "name": "POLY_AREA",
+            "alias": "POLY_AREA",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": false,
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "Persil_PC_ATRBPN",
+      "id": "5fa715ea7af347038fb364c676f133e1",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Persil_WFL1/FeatureServer/0",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "PENGGUNAAN",
+            "alias": "PENGGUNAAN",
+            "show": true
+          },
+          {
+            "name": "TIPEHAK",
+            "alias": "TIPEHAK",
+            "show": true
+          },
+          {
+            "name": "LUAS",
+            "alias": "LUAS",
+            "show": true
+          },
+          {
+            "name": "NIB",
+            "alias": "NIB",
+            "show": true
+          },
+          {
+            "name": "Tinggi",
+            "alias": "Tinggi",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": false,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "NOP Pondok Cina dan Kemiri Muka (Bapenda)",
+      "id": "c02079f2f2c0440b870e274d395c1a5a",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Persil_WFL1/FeatureServer/1",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "THN_PAJAK_",
+            "alias": "THN_PAJAK_",
+            "show": true
+          },
+          {
+            "name": "NOP",
+            "alias": "NOP",
+            "show": true
+          },
+          {
+            "name": "JALAN_OP",
+            "alias": "JALAN_OP",
+            "show": true
+          },
+          {
+            "name": "BLOK_KAV_N",
+            "alias": "BLOK_KAV_N",
+            "show": true
+          },
+          {
+            "name": "RW_OP",
+            "alias": "RW_OP",
+            "show": true
+          },
+          {
+            "name": "RT_OP",
+            "alias": "RT_OP",
+            "show": true
+          },
+          {
+            "name": "LUAS_BUMI_",
+            "alias": "LUAS_BUMI_",
+            "show": true
+          },
+          {
+            "name": "LUAS_BNG_S",
+            "alias": "LUAS_BNG_S",
+            "show": true
+          },
+          {
+            "name": "NJOP_BUMI_",
+            "alias": "NJOP_BUMI_",
+            "show": true
+          },
+          {
+            "name": "NJOP_BNG_S",
+            "alias": "NJOP_BNG_S",
+            "show": true
+          },
+          {
+            "name": "NJOP_SPPT",
+            "alias": "NJOP_SPPT",
+            "show": true
+          },
+          {
+            "name": "KELURAHAN",
+            "alias": "KELURAHAN",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": false,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": false,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
